@@ -1,0 +1,176 @@
+
+body{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+.container{
+    margin-top: 40px;
+}
+
+
+
+.full-navbar-background-image{
+    background-color:rgba(187, 194, 186, 0.281);
+    padding: 60px 80px;
+}
+.icon{
+    height: 50px;
+    width: 150px;
+}
+.get-started-column{
+    margin-top: 70px;
+}
+.ready-text-color{
+    color: tomato;
+    
+}
+span{
+    color: rgb(60, 209, 172);
+    font-weight: 700;
+}
+.button{
+    padding:10px 40px;
+    background-color: rgb(60, 209, 172) ;
+    border-radius: 20px;
+    color:white;
+    position: static;
+}
+
+
+
+
+
+
+
+
+
+
+
+.image-size{
+    height: 400px;
+    width: 900px;
+    padding-right: 30%;
+}
+.card-img-top{
+    height: 30%;
+    width: 10%;
+}
+
+
+
+
+
+
+
+ #Books-img-size{
+     height: 100px;
+     width: 80px;
+     margin-top: 20%;
+     margin-left: 40%;
+ }
+ 
+ #card-inner-text{
+    margin-left: 24%;
+}
+.card-box{
+    box-shadow: 0px 20px 40px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+ .bottom-continer{
+     background-color: rgba(29, 20, 34, 0.315);
+ }
+ .card-img-top1{
+     height:300px;
+ }
+
+
+
+
+ .online-text-color{
+    color:rgba(23, 23, 41, 0.959);
+    text-align: center;
+    margin-bottom: 60px;
+    font-weight: 700;
+ }
+.Mordern-text-color{
+    color:rgba(23, 23, 41, 0.959);
+    font-weight:700;
+}
+ .calendar-people-size{
+     height: 20px;
+     width: 20px;
+     margin-top: 30px;
+ }
+ .modern-calendar-text{
+     position: absolute;
+     margin-left: 30px;
+     margin-top: 28px;
+ }
+ 
+
+
+
+
+
+
+
+#man-image-size{
+    height: 100px;
+    width: 100px;
+    margin-left: 250px;
+}
+.testimonial-text{
+     margin-right: 200px;
+     
+}
+.testimonial-head-text{
+    text-align: center;
+    margin: 50px 50px;
+    font-weight: 700;
+   
+}
+
+
+
+
+
+
+
+
+
+ .copyright-background-image{
+
+     background-color:rgba(23, 23, 41, 0.959);
+ }
+
+  .list-style{
+      padding-top: 5%;
+  }
+  .remove-dot{
+    list-style-type: none;
+  }
+ 
+ .Copyright-text-color{
+     color: white;
+ }
+
+ .footer-text-allign{
+     text-align: center;
+     margin-top: 80px;
+ }
+
+
+
+
+
